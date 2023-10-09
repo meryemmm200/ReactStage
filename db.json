@@ -1,0 +1,43 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "gg",
+      "username": "ggg",
+      "email": "ghhhh",
+      "phone": "gg"
+    },
+    {
+      "name": "fjbvh",
+      "username": "hjbsvj",
+      "email": "jhc",
+      "phone": "jhh ",
+      "id": 2
+    },
+    {
+      "name": "ghalem meryem",
+      "username": "dfwf",
+      "email": "mianschannel@gmail.com",
+      "phone": "0652243519",
+      "materiel": "pc tele kit ",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
